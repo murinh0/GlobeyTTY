@@ -39017,6 +39017,48 @@
     },
     {
       "type": "Feature",
+      "id": "VAT",
+      "properties": {
+        "name": "Vatican"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.42,
+              41.88
+            ],
+            [
+              12.42,
+              41.93
+            ],
+            [
+              12.44,
+              41.96
+            ],
+            [
+              12.49,
+              41.97
+            ],
+            [
+              12.52,
+              41.95
+            ],
+            [
+              12.53,
+              41.89
+            ],
+            [
+              12.42,
+              41.88
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "name": "Syria"
       },
